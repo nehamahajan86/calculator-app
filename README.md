@@ -3,14 +3,12 @@
 
 This is a Calculator application that performs basic arithmetic operations - add(+), subtract(-), multiply(*) and divide(/).
 
-Instructions
-----------------
+System Requirements
+--------------------
 
-#System Requirements:
-
-*Java 8 installed
-*Maven installed
-*Test cases require JUnit
+Java 8 installed
+Maven installed
+Test cases require JUnit
 
 How to build the Application
 ---------------------------
