@@ -6,11 +6,11 @@ This is a Calculator application that performs basic arithmetic operations - add
 Instructions
 ----------------
 
-System Requirements:
+#System Requirements:
 
-Java 8 installed
-Maven installed
-Test cases require JUnit
+*Java 8 installed
+*Maven installed
+*Test cases require JUnit
 
 How to build the Application
 ---------------------------
