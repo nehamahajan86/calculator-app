@@ -26,10 +26,10 @@ How to run the Application
 1. Navigate to target folder.
 2. Run the command in following format "java -jar calculator-0.0.1-SNAPSHOT.jar [Operand1] [Operator] [Operand2]" For Example: To perform Division, execute the command as : 
     
-            java -jar calculator-0.0.1-SNAPSHOT.jar 7 / 3.5 
+              java -jar calculator-app-0.0.1-SNAPSHOT.jar 3 / 1.5
  Result will be displayed on the console.
  
- 3. For multiply operator - * (considered as wild card character), should always be given in double quotes to be accepted as a valid input string. Such as:
+ 3. For multiply operator -> "*" (considered as wild card character), should be given in double quotes to be accepted as a valid input string. Such as:
               
-             java -jar calculator-0.0.1-SNAPSHOT.jar 3 "*" 2
+             java -jar calculator-app-0.0.1-SNAPSHOT.jar 2 "*" 3
             
