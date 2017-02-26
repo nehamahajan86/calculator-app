@@ -31,5 +31,5 @@ How to run the Application
  
  3. For multiply operator - * (considered as wild card character), should always be given in double quotes to be accepted as a valid input string. Such as:
               
-              java -jar calculator-0.0.1-SNAPSHOT.jar 3 "*" 2
+             java -jar calculator-0.0.1-SNAPSHOT.jar 3 "*" 2
             
