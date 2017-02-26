@@ -41,7 +41,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.nab.app.Application</mainClass>
+							<mainClass>com.nm.calculator.app.App</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
