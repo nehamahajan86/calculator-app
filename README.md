@@ -28,3 +28,7 @@ How to run the Application
     
             java -jar calculator-0.0.1-SNAPSHOT.jar 7 / 3.5 
  Result will be displayed on the console.
+ 
+ 3. For multiply operator - * (considered as wild card character), should always be given in double quotes to be accepted as a valid input string. Such as:
+              java -jar calculator-0.0.1-SNAPSHOT.jar 3 "*" 2
+            
