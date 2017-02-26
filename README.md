@@ -26,4 +26,5 @@ How to run the Application
 1. Navigate to target folder.
 2. Run the command in following format "java -jar calculator-0.0.1-SNAPSHOT.jar [Operand1] [Operator] [Operand2]" For Example: To perform Division, execute the command as : 
     
-            java -jar calculator-0.0.1-SNAPSHOT.jar 7 / 3.5 Result will be displayed on the console.
+            java -jar calculator-0.0.1-SNAPSHOT.jar 7 / 3.5 
+ Result will be displayed on the console.
